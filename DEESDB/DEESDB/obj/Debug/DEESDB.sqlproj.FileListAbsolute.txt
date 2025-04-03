@@ -1,0 +1,6 @@
+C:\Users\Gayathri Peedam\Desktop\DEES\DEESDB\DEESDB\bin\Debug\DEESDB.dacpac
+C:\Users\Gayathri Peedam\Desktop\DEES\DEESDB\DEESDB\bin\Debug\DEESDB.dll
+C:\Users\Gayathri Peedam\Desktop\DEES\DEESDB\DEESDB\bin\Debug\DEESDB.pdb
+C:\Users\Gayathri Peedam\Desktop\DEES\DEESDB\DEESDB\obj\Debug\DEESDB.sqlprojAssemblyReference.cache
+C:\Users\Gayathri Peedam\Desktop\DEES\DEESDB\DEESDB\obj\Debug\DEESDB.dll
+C:\Users\Gayathri Peedam\Desktop\DEES\DEESDB\DEESDB\obj\Debug\DEESDB.pdb
